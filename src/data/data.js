@@ -47,4 +47,20 @@ exports.dataProduk = [
     harga: 4000,
     link: "https://drive.google.com/uc?export=view&id=1wDz7xAuIQkF5-stlVVhxL5G_-orwx2IC",
   },
+  {
+    id: 7,
+    nama: "Snack Box 1",
+    tagging: "snack box jajan cemilan ",
+    kategori: "box",
+    harga: 5000,
+    link: "https://image1ws.indotrading.com/s3/productimages/webp/co247753/p1045277/w425-h425/22d576b3-fb05-4e1e-8687-faaf312c6e4a.png",
+  },
+  {
+    id: 8,
+    nama: "Snack Box 2",
+    tagging: "snack box jajan cemilan ",
+    kategori: "box",
+    harga: 7000,
+    link: "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/03/10/Menu-Snack-Box-Rp-10-Ribu-Pilihan-Hemat-dan-Lezat-untuk-Berbagai-Acara-29574753.jpg",
+  },
 ];
