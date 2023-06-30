@@ -5,7 +5,7 @@ exports.dataProduk = [
     tagging: "brownies brownis kue coklat",
     kategori: "bolu",
     harga: 3000,
-    link: "https://drive.google.com/uc?export=view&id=1hWf6kXaXIt8x6KV4Ud1XhqAWGmt5wzuS",
+    foto: "https://drive.google.com/uc?export=view&id=1hWf6kXaXIt8x6KV4Ud1XhqAWGmt5wzuS",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ exports.dataProduk = [
     tagging: "brownies brownis kue coklat",
     kategori: "bolu",
     harga: 5000,
-    link: "https://drive.google.com/uc?export=view&id=1AjILxeFZ15JL0nYV7zii8kuFoeKYURC7",
+    foto: "https://drive.google.com/uc?export=view&id=1AjILxeFZ15JL0nYV7zii8kuFoeKYURC7",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ exports.dataProduk = [
     tagging: "kue cucur",
     kategori: "snack",
     harga: 3000,
-    link: "https://drive.google.com/uc?export=view&id=1oTWpTbcOHp43S9gUYrpEnh8rBnnzuS3F",
+    foto: "https://drive.google.com/uc?export=view&id=1oTWpTbcOHp43S9gUYrpEnh8rBnnzuS3F",
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ exports.dataProduk = [
     tagging: "kue lapis",
     kategori: "snack",
     harga: 2000,
-    link: "https://drive.google.com/uc?export=view&id=1oTWpTbcOHp43S9gUYrpEnh8rBnnzuS3F",
+    foto: "https://drive.google.com/uc?export=view&id=1oTWpTbcOHp43S9gUYrpEnh8rBnnzuS3F",
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ exports.dataProduk = [
     tagging: "kue pandan hijau",
     kategori: "bolu",
     harga: 3000,
-    link: "https://drive.google.com/uc?export=view&id=17B7GiDmkxXpEx4304xCgR0lHVk2Ew-A_",
+    foto: "https://drive.google.com/uc?export=view&id=17B7GiDmkxXpEx4304xCgR0lHVk2Ew-A_",
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ exports.dataProduk = [
     tagging: "kue pancong coklat",
     kategori: "snack",
     harga: 4000,
-    link: "https://drive.google.com/uc?export=view&id=1wDz7xAuIQkF5-stlVVhxL5G_-orwx2IC",
+    foto: "https://drive.google.com/uc?export=view&id=1wDz7xAuIQkF5-stlVVhxL5G_-orwx2IC",
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ exports.dataProduk = [
     tagging: "snack box jajan cemilan ",
     kategori: "box",
     harga: 5000,
-    link: "https://image1ws.indotrading.com/s3/productimages/webp/co247753/p1045277/w425-h425/22d576b3-fb05-4e1e-8687-faaf312c6e4a.png",
+    foto: "https://image1ws.indotrading.com/s3/productimages/webp/co247753/p1045277/w425-h425/22d576b3-fb05-4e1e-8687-faaf312c6e4a.png",
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ exports.dataProduk = [
     tagging: "snack box jajan cemilan ",
     kategori: "box",
     harga: 7000,
-    link: "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/03/10/Menu-Snack-Box-Rp-10-Ribu-Pilihan-Hemat-dan-Lezat-untuk-Berbagai-Acara-29574753.jpg",
+    foto: "https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2023/03/10/Menu-Snack-Box-Rp-10-Ribu-Pilihan-Hemat-dan-Lezat-untuk-Berbagai-Acara-29574753.jpg",
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ exports.dataProduk = [
     tagging: "snack box jajan cemilan ",
     kategori: "box",
     harga: 10000,
-    link: "https://sosialita.tanahlautkab.go.id/assets/uploads/webp/fotoproduk/crop/4eQEpHKq20220210131720.jpg.webp",
+    foto: "https://sosialita.tanahlautkab.go.id/assets/uploads/webp/fotoproduk/crop/4eQEpHKq20220210131720.jpg.webp",
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ exports.dataProduk = [
     tagging: "snack box jajan cemilan ",
     kategori: "box",
     harga: 10000,
-    link: "https://gratisongkir-storage.com/products/900x900/Arh23NHwh1qX.jpg",
+    foto: "https://gratisongkir-storage.com/products/900x900/Arh23NHwh1qX.jpg",
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ exports.dataProduk = [
     tagging: "bolu kue ulang tahun ",
     kategori: "bolu",
     harga: 50000,
-    link: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bruder_cake_Manado.JPG/1200px-Bruder_cake_Manado.JPG",
+    foto: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bruder_cake_Manado.JPG/1200px-Bruder_cake_Manado.JPG",
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ exports.dataProduk = [
     tagging: "bolu kue ulang tahun ",
     kategori: "bolu",
     harga: 50000,
-    link: "https://asset.kompas.com/crops/yA2QoNVwI_yFqWBZ6MBSgmimgVI=/100x67:900x600/750x500/data/photo/2023/03/16/641283c707f32.jpg",
+    foto: "https://asset.kompas.com/crops/yA2QoNVwI_yFqWBZ6MBSgmimgVI=/100x67:900x600/750x500/data/photo/2023/03/16/641283c707f32.jpg",
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ exports.dataProduk = [
     tagging: "donat donut warna warni ",
     kategori: "snack",
     harga: 5000,
-    link: "https://img-global.cpcdn.com/recipes/d79df1a3b5a7727d/1200x630cq70/photo.jpg",
+    foto: "https://img-global.cpcdn.com/recipes/d79df1a3b5a7727d/1200x630cq70/photo.jpg",
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ exports.dataProduk = [
     tagging: "donat donut manis polos ",
     kategori: "snack",
     harga: 2000,
-    link: "https://www.unileverfoodsolutions.co.id/dam/global-ufs/mcos/SEA/calcmenu/recipes/ID-recipes/desserts-&-bakery/doughnut/main-header.jpg",
+    foto: "https://www.unileverfoodsolutions.co.id/dam/global-ufs/mcos/SEA/calcmenu/recipes/ID-recipes/desserts-&-bakery/doughnut/main-header.jpg",
   },
   {
     id: 15,
@@ -117,6 +117,6 @@ exports.dataProduk = [
     tagging: "molen pisang ",
     kategori: "snack",
     harga: 2000,
-    link: "https://tastynesia.com/wp-content/uploads/2022/08/Resep-Pisang-Molen.jpg",
+    foto: "https://tastynesia.com/wp-content/uploads/2022/08/Resep-Pisang-Molen.jpg",
   },
 ];
